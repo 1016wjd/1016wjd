@@ -9,6 +9,9 @@
 ---
 
 ##### Tech Stacks
+<img src="https://img.shields.io/badge/Tistory-#3776AB?style=for-the-badge&logo=Tistory&logoColor=white">
+
+
 ##### contact me
 
 ---
