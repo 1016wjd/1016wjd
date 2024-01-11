@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=Hello!!%Hyunjung%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=Hello👋!!%Hyunjung%20Github&fontSize=60)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1016wjd)](https://github.com/1016wjd/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1016wjd&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1016wjd &layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=1016wjd&show_icons=true">
 
 # Hi there 👋
 ## Hi there 👋
