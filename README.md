@@ -9,7 +9,7 @@
 ---
 
 ##### Tech Stacks
-<img src="https://img.shields.io/badge/Tistory-3776AB?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/python?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 
 ##### contact me
