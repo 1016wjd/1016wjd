@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=React&logoColor=black">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 ### ✔️Frond-end
