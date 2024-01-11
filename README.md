@@ -8,19 +8,12 @@
 ##### 안녕하세요!
 ---
 
-##### Tech Stacks
+### ✔️Tech Stacks
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=React&logoColor=black">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
 
-### ✔️Frond-end
-
-### ✔️Back-end
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
-
-##### contact me
+### ✔️contact me
 
 ---
 **두껍게** <br>
