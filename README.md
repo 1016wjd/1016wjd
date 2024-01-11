@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=rightgreen&height=300&section=header&text=데이터분석가%20김현정&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#ffdce0&height=300&section=header&text=데이터분석가%20김현정&fontSize=90)
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=데이터분석가%20김현정&fontSize=90)
 
